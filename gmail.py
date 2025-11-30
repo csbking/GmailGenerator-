@@ -1,1 +1,1 @@
-import gm.py
+import gm.py.zip
