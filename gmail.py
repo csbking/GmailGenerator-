@@ -1,1 +1,2 @@
-import gm.py
+import gm
+gm.sr()
